@@ -6,8 +6,6 @@
 - 🍒Pronouns: She/Her
 ---
 
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
