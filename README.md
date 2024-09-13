@@ -5,5 +5,6 @@
 - 📫 How to Reach Me: chuwen306@outlook.com
 - 🍒Pronouns: She/Her
 ---
- <!-- waka-box start -->
- <!-- waka-box end -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
