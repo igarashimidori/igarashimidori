@@ -7,6 +7,12 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+Other   8 hrs 15 mins   █████████████████████████   99.99 %
+TeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 
