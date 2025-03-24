@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    12 hrs 10 mins  █████████████████████████   99.66 %
-MATLAB   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other   8 hrs 32 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
