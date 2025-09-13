@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    4 hrs 3 mins    █████████████████████████   99.51 %
-Vue.js   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other   2 hrs 45 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
