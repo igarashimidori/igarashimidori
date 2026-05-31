@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 hrs 2 mins    █████████████████████████   100.00 %
+Other   9 hrs 9 mins    ████████████████████████▓   99.13 %
+JSON    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
