@@ -9,8 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    10 hrs 4 mins   ██████████████████████░░░   88.27 %
-Python   1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Other    6 hrs 49 mins   █████████████████████░░░░   83.63 %
+Python   1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
 ```
 
 <!--END_SECTION:waka-->
