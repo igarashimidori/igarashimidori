@@ -1,8 +1,9 @@
 ## Hi there 👋
 ---
-- 🌱A Geomatics Engineering graduate Student.
-- 🔭Research in:Atmospheric LIDAR & Remote sensing of satellite & Aerosol optical and physical properties & Radiative Transfer
-- 📫 How to Reach Me: wenchu0306@gmail.com
+I'm a Ph.D. student in Atmospheric Sciences at Nanjing University, with an interdisciplinary background in GIS and Geomatics Engineering.
+- 🌱Currently Exploring: AI4S, Atmospheric Remote Sensing, Atmospheric Composition Retrieval, Radiative Transfer
+- 🔭Research Interests: Atmospheric Chemistry & Wildfire Emissions | Satellite & LiDAR Remote Sensing | Aerosol Properties & Radiative Transfer
+- 📫How to Reach Me: wenchu0306@gmail.com
 - 🍒Pronouns: She/Her
 ---
 
